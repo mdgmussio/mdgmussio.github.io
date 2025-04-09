@@ -12,10 +12,13 @@ description: >
   I wonder if this works? I'm still learning.
   
 minima: dark
-   social_links:
-     - title: My github
-       icon: github
-       url: "https://github.com/mdgmussio/"
+
+date-format: "%Y-%m-%d"
+
+social_links:
+  - title: My github
+  icon: github
+  url: "https://github.com/mdgmussio/"
 
 # Site-wide settings
 # ------------------
