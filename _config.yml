@@ -17,8 +17,8 @@ date-format: "%Y-%m-%d"
 
 social_links:
   - title: My github
-  icon: github
-  url: "https://github.com/mdgmussio/"
+  - icon: github
+  - url: "https://github.com/mdgmussio/"
 
 # Site-wide settings
 # ------------------
