@@ -12,7 +12,8 @@ description: >
   I wonder if this works? I'm still learning.
   
 minima: dark
-
+minima:
+  skin: dark
 date-format: "%Y-%m-%d"
 
 social_links:
