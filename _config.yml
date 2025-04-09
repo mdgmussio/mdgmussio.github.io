@@ -2,14 +2,14 @@
 
 remote_theme: "jekyll/minima@1e8a445"
 
-title: M.D.G.M
+# title: M.D.G.M
 author:
   name: Matthew Mussio
-  email: matthew.mussio@outlook.com
+  # email: matthew.mussio@outlook.com
 
 description: >
   Just a simple minded systems analyst sharing some simple thoughts about the technology.
-  I wonder if this works? I'm still learning.
+  Does this even work? I'm still learning.
   
 minima: dark
 minima:
