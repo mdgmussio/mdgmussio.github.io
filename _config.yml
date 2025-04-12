@@ -46,7 +46,7 @@ plugins:
 
 author:
   name   : "Matthew Mussio"
-  avatar : "/assets/images/bio-photo.jpeg"
+  avatar : "/assets/images/sm-bio-photo.jpeg"
   bio    : "Simple Minded IT Analyst"
   links:
     - label: "Twitter"
