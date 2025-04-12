@@ -46,7 +46,7 @@ plugins:
 
 author:
   name   : "Matthew Mussio"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Simple Minded IT Analyst"
   links:
     - label: "Twitter"
@@ -60,10 +60,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/justinwgrote"
+      url: "https://twitter.com/mmussio"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/justingrote"
+      url: "https://github.com/mdgmussio"
 
 defaults:
   # _posts
