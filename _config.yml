@@ -4,4 +4,4 @@ description: Notes on technology, automation, and making work easier
 theme: minima
 
 header_pages:
-  - about
+  - about.md
