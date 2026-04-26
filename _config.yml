@@ -1,2 +1,7 @@
 title: Matthew’s Blog
-description: Personal notes and thoughts
+description: Notes on technology, automation, and making work easier
+
+theme: minima
+
+header_pages:
+  - about
