@@ -1,0 +1,24 @@
+---
+---
+
+/* Subtle colour customisation for Minima */
+
+:root {
+  --accent-color: #2563eb; /* soft blue */
+}
+
+a {
+  color: var(--accent-color);
+}
+
+.site-header {
+  border-top: 5px solid var(--accent-color);
+}
+
+.site-title,
+.site-title:visited {
+  color: #1f2937;
+}
+
+.page-link {
+  color: #374151
